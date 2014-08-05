@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container" layout="horizontal">
+		<Label id="label">Subscribe Push Notification</Label>
+		<Switch id="basicSwitch" onChange="ganti" titleOn="Nyala" titleOff="Mati" value=false></Switch>
+	</Window>
+</Alloy>

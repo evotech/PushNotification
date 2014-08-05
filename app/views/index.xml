@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container" layout="horizontal">
+		<Menu platform="android">
+			<MenuItem id="menuRequest" title="Request" onClick="openPushNotif" showAsAction="Ti.Android.SHOW_AS_ACTION_IF_ROOM"/>
+		</Menu>
+	</Window>
+</Alloy>
